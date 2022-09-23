@@ -6,6 +6,8 @@ Demo: https://devfuture.pro/live/whitener/
 
 Discover new preset for GrapesJS. White colors with full functionality for webpage / newslatter.
 
+DOWNLOAD: https://gjs.market/products/whitener-preset-grapesjs
+
 GJS.MERKET: https://gjs.market/authors/devfuture-development
 
 Our website: https://devfuture.pro/ <br/>
